@@ -8,10 +8,10 @@
 #### Data collectoin and storing in SQL.
 
 ## Library used
-OpenCV
-Tkinter
-Pandas
-TensorFlow
-OS
-Time
-Sql connector
+#### OpenCV
+#### Tkinter
+#### Pandas
+#### TensorFlow
+#### OS
+#### Time
+#### Sql connector
